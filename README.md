@@ -1,1 +1,2 @@
-# Trilha JS Developer - Pokedex
+# Projeto - Pokedex com API rest
+Repositório dedicado a aprimoramentos da Pokedex
