@@ -4,12 +4,6 @@
     margin: 0;
     padding: 0;
     list-style: none;
-    transition: width 0.3s ease, height 0.3s ease;
-}
-
-.pokemons:hover{
-    width: 150px;
-    height: 150px;
 }
 
 .normal {
@@ -90,6 +84,11 @@
     margin: .5rem;
     padding: 1rem;
     border-radius: 1rem;
+    transition: transform 0.3s ease;
+}
+
+.pokemon:hover{
+    transform: scale(1.1);
 }
 
 .pokemon .number {
