@@ -4,12 +4,9 @@
     margin: 0;
     padding: 0;
     list-style: none;
-    transition: width 0.3s ease, height 0.3s ease;
+    
 }
-.pokemons:hover{
-    width: 150px;
-    height: 150px;
-}
+
 
 .normal {
     background-color: #a6a877;
